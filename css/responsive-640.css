@@ -1,0 +1,373 @@
+@media (min-width: 640px) and (max-width: 767px) {
+	h1 {
+		font-size: 4.2rem;
+	}
+	h2 {
+		font-size: 3.6rem;
+	}
+	h3 {
+		font-size: 2.5rem;
+	}
+	h4 {
+		font-size: 2.2rem;
+		line-height: 3.5rem;
+	}
+	h5 {
+		font-size: 2rem;
+	}
+	.icon-button > a > span {
+		padding-top: 1rem;
+		font-size: 2rem;
+	}
+	.corner {
+		right: 0.1rem;
+		bottom: 0.1rem;
+	}
+	.navbar-fixed-top {
+		padding: 3rem 0;
+	}
+	.logo img {
+		width: 30.2rem;
+	}
+	#menuModal > .modal-dialog {
+		margin: 0 10rem 0 0;
+	}
+	#searchModal > .modal-dialog {
+		margin: 0 0 0 10rem;
+	}
+	.carousel-indicators li {
+		width: 1.6rem;
+		height: 1.6rem;
+		margin: 0.2rem 1rem;
+	}
+	.carousel-indicators .active {
+		width: 1.8rem;
+		height: 1.8rem;
+		margin: 0 1rem;
+	}
+	.carousel-control img {
+		width: 4.8rem;
+	}
+	#main-carousel > .carousel-indicators {
+		bottom: -6.5rem;
+	}
+	#main-carousel .people > .outer {
+		top: 12rem;
+		margin-left: 3%;
+		padding: 4.2rem 0;
+		border-width: 0.1rem;
+		box-shadow: 0 0 1rem 1rem rgba(0, 0, 0, 0.1);
+	}
+	#main-carousel .people > .outer > .inner {
+		box-shadow: 0 0 1rem 1rem rgba(0, 0, 0, 0.1) inset;
+	}
+	#main-carousel .goods > .outer {
+		top: 6rem;
+		margin-left: 7%;
+	}
+	#main-carousel .goods > .outer > .inner {
+		border-width: 0.5rem;
+		padding: 4rem 0;
+	}
+	#main-carousel .goods .free {
+		margin-top: 2.5rem;
+		width: 45.3rem;
+		height: 6.8rem;
+	}
+	#main-carousel .goods .free > div {
+		width: 30.9rem;
+		font-size: 1.8rem;
+		padding-top: 2rem;
+	}
+	#main-carousel .goods .free > h1 {
+		padding: 1.1rem 1.1rem 0 0;
+	}
+	#main-carousel .goods .merits {
+		margin-top: 2rem;
+	}
+	#main-carousel .goods .merits > p {
+		font-size: 1.5rem;
+		margin-bottom: 0.5rem;
+	}
+	#main-carousel .corner {
+		width: 5.4rem;
+	}
+	.tel {
+		border-width: 0.2rem;
+	}
+	.tel > .panel-heading img {
+		width: 2rem;
+	}
+	.tel > .panel-body {
+		background-size: 2.4rem;
+	}
+	.tel-num > img {
+		width: 3.6rem;
+	}
+	.biz-time > h4 {
+		margin: 0 1rem;
+	}
+	#banner-carousel > .carousel-control {
+		top: 4rem;
+	}
+	.shoplist {
+		height: 150.6rem;
+		background-size: 100%;
+	}
+	.caption {
+		padding-top: 6rem;
+		padding-bottom: 2rem;
+	}
+	.shoplist > .comment {
+		padding: 1rem 0 5rem 0;
+	}
+	.caption > h3,
+	.pointer > h3,
+	.shopitem > h3,
+	.pricelist > .caption > h3 {
+		padding-top: 1rem;
+	}
+	.shoplist .pointer > div,
+	.recommended .pointer > div,
+	.buy .pointer > div {
+		width: 57.9rem;
+		height: 6.3rem;
+		background-size: 100%;
+		padding-top: 0.5rem;
+	}
+	.shoplist .pointer > span > .arrow {
+		border-width: 1.5rem;
+	}
+	.kanto,
+	.shizuoka {
+		margin-top: -1rem;
+	}
+	.kanto .row,
+	.shizuoka .row,
+	.recommended .row {
+		margin: 2.5rem 0;
+	}
+	.shopitem {
+		background-color: #fff;
+		width: 17.4rem;
+		padding: 0.1rem;
+	}
+	.shopitem > .name {
+		padding: 2rem 0 1rem 0;
+	}
+	.shopitem > .category {
+		top: 10rem;
+		left: 0.1rem;
+		width: 12.2rem;
+	}
+	.caution {
+		margin: 3rem 0;
+	}
+	.caution > h4 {
+		margin: 0.5rem 0;
+	}
+	.shoplist {
+		height: 150.6rem;
+		background-size: 100%;
+	}
+	.pricelist {
+		height: 121.8rem;
+		background-size: 100%;
+		padding: 3rem;
+	}
+	.priceitem {
+		margin: 2.75rem 0;
+	}
+	.priceitem > .picture {
+		padding: 1rem;
+	}
+	.priceitem > .comment {
+		padding: 2rem;
+	}
+	.priceitem > .comment img {
+		width: 14.3rem;
+	}
+	.priceitem > .comment h5 {
+		padding-top: 0.5rem;
+	}
+	.btn {
+		border-width: 0.2rem;
+		padding: 2.5rem;
+	}
+	.btn .corner {
+		width: 1.9rem;
+	}
+	.brands {
+		margin-top: 3rem;
+		margin-bottom: 3rem;
+	}
+	.branditem {
+		padding: 1rem;
+	}
+	.branditem .picture {
+		width: 12.7rem;
+	}
+	.branditem .corner {
+		width: 1.5rem;
+	}
+	.sample-wrapper {
+		margin: 1.5rem;
+		padding: 1.5rem 0;
+	}
+	.summary {
+		margin: 2rem;
+	}
+	.summary h3 {
+		line-height: 4rem;
+		padding: 0 1rem;
+	}
+	.sampleitem {
+		margin: 3rem;
+		padding: 0 0.5rem;
+	}
+	.sampleitem > .comment {
+		padding: 0 2rem;
+	}
+	.sampleitem > .comment h3 {
+		line-height: 3.5rem;
+	}
+	.adviser {
+		height: 113.1rem;
+		margin-top: 10rem;
+		padding-top: 5rem;
+	}
+	.adviser > .comment {
+		padding: 2rem 0;
+	}
+	.adviser-wrapper {
+		margin: 3rem 0;
+	}
+	.triple {
+		padding: 0.4rem;
+	}
+	.person {
+		margin: 0 0.2rem;
+		padding: 0.1rem;
+	}
+	.itemlist > table td {
+		border-width: 0.1rem;
+		padding: 0.2rem;
+	}
+	.itemlist > table td > h4 {
+		margin-bottom: 2.5rem;
+	}
+	.itemlist .corner,
+	.recommended .icon .corner {
+		width: 2.2rem;
+	}
+	.mens-ladies {
+		margin-top: 5rem;
+	}
+	.mens-ladies > .nav-tabs > li,
+	.mens-ladies > .nav-tabs > li.active {
+		width: 29rem;
+		height: 8rem;
+	}
+	.mens-ladies > .nav-tabs > li > a {
+		margin-top: 1rem;
+	}
+	.mens-ladies > .tab-content {
+		padding: 0 5rem;
+	}
+	.recommended,
+	.buy {
+		padding: 3rem 0;
+	}
+	.good > div,
+	.recommended .icon {
+		border-width: 0.1rem;
+	}
+	.good .picture,
+	.recommended .icon .picture {
+		width: 23.3rem;
+	}
+	.good > h4 {
+		margin: 2rem 0 3rem 0;
+	}
+	.buy > .caption > .dash {
+		width: 7.5rem;
+		border-bottom-width: 1px;
+		margin: 2rem 0;
+	}
+	.buy > .mode > .pointer {
+		top: 1.7rem;
+	}
+	.buy > .mode > .pointer > div {
+		padding: 1rem 0 1rem 0;
+	}
+	.pointer .icon {
+		width: 3.4rem;
+	}
+	.pointer .corner {
+		right: 0.6rem;
+		bottom: 2.3rem;
+		width: 2.2rem;
+	}
+	.footer .list-group {
+		padding: 0 3rem;
+	}
+	.footer .list-group-item {
+		padding: 2rem;
+	}
+	.footer .menu {
+		background-size: 2.3rem 4rem;
+	}
+	.footer > .copyright,
+	.footer > .ssl {
+		padding: 2rem 3rem;
+	}
+	.footer > .copyright > .logo,
+	.footer > .ssl > .cert {
+		padding: 0 2rem;
+	}
+	.footer > .copyright > .comment {
+		font-size: 1.7rem;
+	}
+	.footer > .ssl > .comment {
+		font-size: 1.5rem;
+	}
+	#menuModal .panel-heading,
+	#menuModal td {
+		height: 6rem;
+		padding: 0 2rem;
+	}
+	#menuModal .panel-title,
+	.menu-item {
+		font-size: 2rem;
+	}
+	.menu-icon > i {
+		width: 2.3rem;
+		height: 2.6rem;
+	}
+	#menuModal .panel-heading a > .menu-item > .menu-group > i {
+		width: 2.9rem;
+		height: 0.1rem;
+	}
+	#menuModal .panel-heading a.collapsed > .menu-item > .menu-group > i {
+		width: 2.9rem;
+		height: 2.9rem;
+	}
+	#searchModal .pointer {
+		width: 54rem;
+		height: 9.7rem;
+		background-size: 100%;
+		padding-top: 1.3rem;
+	}
+	#searchModal form {
+		padding: 2rem 3rem;
+	}
+	#searchModal form input {
+		font-size: 2rem;
+		padding: 3rem;
+		border: none;
+		box-shadow: 0 0 0.7rem 0.7rem rgba(0, 0, 0, 0.1) inset;
+	}
+	#searchModal .btn {
+		padding: 1rem;
+	}
+}
